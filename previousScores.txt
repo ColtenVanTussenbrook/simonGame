@@ -1,0 +1,11 @@
+Yoda 1000
+Rocky 12
+Oprah 10
+Voltron 8
+Strongbad 7
+Cher 6
+Vader 5
+Thor 2
+Nemo 2
+Spongebob 1
+
